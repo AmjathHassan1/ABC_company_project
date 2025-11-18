@@ -11,3 +11,9 @@ A correlation study is also conducted to explore the relationship between age an
 Overall, this project helps in understanding workforce composition, identifying structural patterns,
 and supporting better decision-making through data-driven insights.
 
+
+
+Here,
+1. Each Section is done analytically.
+2. Gave Visual Representation
+3. Insights
